@@ -30,7 +30,6 @@ public class FinalGame implements java.io.Serializable {
             Clip clip = audio.getClip();
             String command;
 
-            skillTable1.setWoodCuttingLevel((short) 11);
             audio.playMusic("music/Harmony", 0.0, 0.75);
             do {
                 System.out.print("> ");
