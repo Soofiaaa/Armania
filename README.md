@@ -12,10 +12,10 @@ I am currently putting all my time in my life on this game right now. <br/>
 I am doing this project solo so it takes some times to make new version but 1.3 will be there soon. <br/>
 
 ## Question
-If anyone has a question, feel free to contact me.
-Discord ➔ ~/sofia#4047
+If anyone has a question, feel free to contact me. <br/>
+Discord ➔ ~/sofia#4047 <br/>
 
 ## Bye
-Hope you enjoy the game.
+Hope you enjoy the game. <br/>
 Have a good time. :smile:
 
